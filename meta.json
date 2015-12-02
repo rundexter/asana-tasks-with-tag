@@ -4,23 +4,17 @@
 {
     //Required. Inputs the module expects.
     "inputs": [
-        //e.g.
-        /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "tag",
+            "title":"Tag ID"
         }
-        */
     ],
     //Required. Outputs the module emits.
     "outputs": [
-      //e.g.
-      /*
         {
-            "id": "from",
-            "title":"From"
+            "id": "data",
+            "title":"Array with tasks"
         }
-      */
     ],
     "title": "Asana Get Tasks with Tag" /* Required.A display name for the module */
 }
