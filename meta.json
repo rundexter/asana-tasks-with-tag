@@ -20,5 +20,6 @@
             "title":"Task Name"
         }
     ],
+    "icon": "tasks",
     "title": "Asana Get Tasks with Tag" /* Required.A display name for the module */
 }
