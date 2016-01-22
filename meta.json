@@ -20,6 +20,9 @@
             "title":"Task Name"
         }
     ],
+    "providers": [{
+        "name": "asana"
+    }],
     "icon": "tasks",
-    "title": "Asana Get Tasks with Tag" /* Required.A display name for the module */
+    "title": "Asana Get Tasks with Tag"
 }
